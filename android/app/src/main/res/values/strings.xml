@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Tap tap</string>
+    <string name="title_activity_main">Tap tap</string>
+    <string name="package_name">com.coco.taptap</string>
+    <string name="custom_url_scheme">com.coco.taptap</string>
+</resources>
